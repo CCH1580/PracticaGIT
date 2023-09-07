@@ -1,27 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mshad\\Downloads\\ProyectosBlazor\\GitPrueba\\GitPrueba\\GitPrueba.vbproj": {}
+    "C:\\PruebasGIT\\PracticaGIT\\GitPrueba\\GitPrueba.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\mshad\\Downloads\\ProyectosBlazor\\GitPrueba\\GitPrueba\\GitPrueba.vbproj": {
+    "C:\\PruebasGIT\\PracticaGIT\\GitPrueba\\GitPrueba.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mshad\\Downloads\\ProyectosBlazor\\GitPrueba\\GitPrueba\\GitPrueba.vbproj",
+        "projectUniqueName": "C:\\PruebasGIT\\PracticaGIT\\GitPrueba\\GitPrueba.vbproj",
         "projectName": "GitPrueba",
-        "projectPath": "C:\\Users\\mshad\\Downloads\\ProyectosBlazor\\GitPrueba\\GitPrueba\\GitPrueba.vbproj",
-        "packagesPath": "C:\\Users\\mshad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mshad\\Downloads\\ProyectosBlazor\\GitPrueba\\GitPrueba\\obj\\",
+        "projectPath": "C:\\PruebasGIT\\PracticaGIT\\GitPrueba\\GitPrueba.vbproj",
+        "packagesPath": "C:\\Users\\goten\\.nuget\\packages\\",
+        "outputPath": "C:\\PruebasGIT\\PracticaGIT\\GitPrueba\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\mshad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\goten\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://nuget.telerik.com/v3/index.json": {}
         },
